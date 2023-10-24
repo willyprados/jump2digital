@@ -32,7 +32,7 @@ main {
   display: flex;
   flex-direction: column;
   color: var(--black);
-  font-size: 3.75rem;
+  font-size: 3.5rem;
   font-weight: 400;
   padding-top: 50px;
   margin: 0px;
@@ -46,7 +46,7 @@ p {
   position: relative;
   padding: 5px 4px 0px;
   background: var(--black) none repeat scroll 0% 0%;
-  transform: skew(-2deg) translateY(-6px) translateY(-12px);
+  transform: skew(-2deg) translateY(-6px) translateY(-10px);
 }
 h2.primary {
   font-size: 1.875rem;
